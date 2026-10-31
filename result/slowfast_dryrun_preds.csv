@@ -1,0 +1,51 @@
+video,true_label,pred_top1,score_top1,correct_top1,pred_top5
+--07WQ2iBlw_000001_000011.mp4,javelin throw,javelin throw,8.583,True,javelin throw | shot put | hurdling | catching or throwing softball | playing tennis
+--33Lscn6sk_000004_000014.mp4,flipping pancake,flipping pancake,28.175,True,flipping pancake | brushing hair | playing harmonica | playing recorder | tossing coin
+--7VUM9MKg4_000136_000146.mp4,playing saxophone,playing saxophone,29.382,True,playing saxophone | playing trumpet | playing clarinet | playing flute | singing
+--7goKgS4kc_000015_000025.mp4,slapping,beatboxing,6.630,False,beatboxing | grooming dog | playing recorder | shaking hands | grooming horse
+--7qK_w-g3Y_000185_000195.mp4,making tea,making tea,18.580,True,making tea | making a cake | baking cookies | washing dishes | peeling potatoes
+--8FQVwWH0M_000003_000013.mp4,shaking head,shaking head,6.809,True,shaking head | petting cat | reading book | hugging | tickling
+--9s8lCov-I_000002_000012.mp4,driving tractor,mowing lawn,25.895,False,mowing lawn | drop kicking | driving tractor | faceplanting | playing paintball
+--AbCB6WSN0_000018_000028.mp4,bending back,bending back,16.351,True,bending back | making bed | yoga | contact juggling | dancing macarena
+--GF746y6UM_000496_000506.mp4,playing bass guitar,playing bass guitar,29.388,True,playing bass guitar | tapping guitar | strumming guitar | playing ukulele | playing guitar
+--ILYNHl3e4_000541_000551.mp4,digging,baking cookies,8.272,False,baking cookies | counting money | knitting | bee keeping | shredding paper
+--Kr1PZaPDI_000001_000011.mp4,finger snapping,finger snapping,20.126,True,finger snapping | dancing gangnam style | pumping fist | laughing | dancing macarena
+--PwWfN1Ae4_000097_000107.mp4,playing violin,playing violin,24.642,True,playing violin | playing cello | shaving head | auctioning | playing clarinet
+--RVKBMp_2M_000079_000089.mp4,playing drums,playing saxophone,14.844,False,playing saxophone | busking | playing clarinet | playing drums | playing trumpet
+--SOz3xjWfA_000037_000047.mp4,playing ukulele,playing ukulele,30.000,True,playing ukulele | playing guitar | singing | strumming guitar | playing harmonica
+--SrV9bGzRA_000197_000207.mp4,skiing slalom,skiing slalom,29.713,True,skiing slalom | skiing (not slalom or crosscountry) | ski jumping | snowboarding | skiing crosscountry
+--TSmh3wj9I_000118_000128.mp4,opening bottle,opening bottle,23.267,True,opening bottle | tying tie | trimming or shaving beard | arm wrestling | tying bow tie
+--Y25nDn2Wk_000060_000070.mp4,playing cymbals,playing cymbals,30.000,True,playing cymbals | whistling | playing drums | playing clarinet | playing trumpet
+--bGIeO_7Jo_000184_000194.mp4,filling eyebrows,filling eyebrows,29.844,True,filling eyebrows | applying cream | waxing eyebrows | brush painting | fixing hair
+--dVV4_CSvw_000033_000043.mp4,bowling,bowling,29.999,True,bowling | auctioning | washing feet | dining | giving or receiving award
+--gEBElruic_000067_000077.mp4,bobsledding,bobsledding,17.613,True,bobsledding | skydiving | motorcycling | paragliding | parasailing
+--kbTDDIiP0_000062_000072.mp4,giving or receiving award,giving or receiving award,10.486,True,giving or receiving award | testifying | applauding | vault | tango dancing
+--nQbRBEz2s_000104_000114.mp4,air drumming,air drumming,16.471,True,air drumming | playing cymbals | playing drums | sword fighting | sharpening knives
+--o545tThdQ_000088_000098.mp4,capoeira,capoeira,30.000,True,capoeira | catching or throwing baseball | playing ukulele | side kick | celebrating
+--oEIzy6Esc_000045_000055.mp4,bouncing on trampoline,gymnastics tumbling,8.715,False,gymnastics tumbling | bouncing on trampoline | somersaulting | vault | pole vault
+--oJV4vFNeI_000003_000013.mp4,triple jump,triple jump,24.690,True,triple jump | long jump | pole vault | javelin throw | vault
+--rC9Wkh6HA_000179_000189.mp4,changing oil,changing oil,28.995,True,changing oil | checking tires | cleaning gutters | blasting sand | pumping gas
+--rd8woSLiM_000041_000051.mp4,pull ups,pull ups,26.549,True,pull ups | punching bag | blowing nose | playing harmonica | singing
+--sGO9m2Was_000000_000010.mp4,spinning poi,spinning poi,23.000,True,spinning poi | sword fighting | flying kite | swinging on something | juggling fire
+--uGS0Y4D6k_000009_000019.mp4,building cabinet,building cabinet,28.771,True,building cabinet | building shed | laying bricks | welding | bookbinding
+--wYHtYMK9o_000008_000018.mp4,hula hooping,hula hooping,30.000,True,hula hooping | spinning poi | watering plants | busking | tying knot (not on a tie)
+--yCUKj4Oq4_000018_000028.mp4,clean and jerk,clean and jerk,29.221,True,clean and jerk | squat | lunge | snatch weight lifting | playing accordion
+-0-s1eu4sF4_000031_000041.mp4,milking cow,milking cow,26.003,True,milking cow | washing feet | texting | using computer | kissing
+-02UO1KSdZ0_000025_000035.mp4,counting money,counting money,22.548,True,counting money | playing poker | tasting beer | playing monopoly | dining
+-05qSkAhM6Y_000205_000215.mp4,belly dancing,belly dancing,23.923,True,belly dancing | planting trees | stomping grapes | watering plants | digging
+-081qTv9fXc_000216_000226.mp4,waxing chest,waxing back,14.370,False,waxing back | waxing chest | waxing legs | cracking neck | shaving head
+-09lBxmFoWE_000030_000040.mp4,front raises,front raises,29.934,True,front raises | stretching arm | exercising arm | squat | pull ups
+-0BveUV52cM_000043_000053.mp4,smoking hookah,playing recorder,2.946,False,playing recorder | holding snake | drinking shots | playing guitar | curling hair
+-0CNBzthkZ4_000004_000014.mp4,brushing hair,brushing hair,10.253,True,brushing hair | brushing teeth | fixing hair | trimming or shaving beard | shaving head
+-0COMyPvkHU_000061_000071.mp4,getting a tattoo,getting a tattoo,30.000,True,getting a tattoo | brush painting | weaving basket | dying hair | playing guitar
+-0Eu83ggVq4_000235_000245.mp4,shaving head,shaving head,24.934,True,shaving head | washing hair | shaving legs | getting a haircut | opening bottle
+-0FzHADcl10_000005_000015.mp4,massaging back,massaging back,18.045,True,massaging back | massaging legs | massaging person's head | crying | massaging feet
+-0HUfPFdLKE_000004_000014.mp4,counting money,counting money,29.984,True,counting money | waxing legs | waxing back | playing poker | blowing nose
+-0IErS_cisg_000017_000027.mp4,marching,marching,22.254,True,marching | celebrating | cheerleading | pumping fist | javelin throw
+-0IEt9-NeV4_000637_000647.mp4,sailing,sailing,27.217,True,sailing | windsurfing | kitesurfing | jetskiing | diving cliff
+-0L4fgr5GE0_000001_000011.mp4,motorcycling,motorcycling,22.146,True,motorcycling | driving car | bobsledding | finger snapping | texting
+-0L4z8D2eGs_000043_000053.mp4,belly dancing,belly dancing,28.254,True,belly dancing | dancing charleston | bending back | salsa dancing | taking a shower
+-0Li7rc78jQ_000128_000138.mp4,motorcycling,motorcycling,26.121,True,motorcycling | riding a bike | biking through snow | pushing wheelchair | riding mountain bike
+-0ML-FXomBw_000001_000011.mp4,playing paintball,playing paintball,29.861,True,playing paintball | playing cricket | riding unicycle | walking the dog | spraying
+-0Mfuocujdg_000000_000010.mp4,climbing tree,climbing tree,25.066,True,climbing tree | feeding birds | throwing axe | drop kicking | disc golfing
+-0N5cgaMCfY_000316_000326.mp4,ice fishing,ice fishing,24.722,True,ice fishing | petting animal (not cat) | riding elephant | grooming dog | sharpening pencil
