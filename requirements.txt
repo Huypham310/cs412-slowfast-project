@@ -1,5 +1,5 @@
 # PyTorch
-# Cài đặt phiên bản kèm CUDA tương ứng nếu dùng GPU (ví dụ: cu128)
+# Install matching CUDA-enabled version if using GPU (e.g., cu128)
 torch>=2.0.0
 torchvision>=0.15.0
 
