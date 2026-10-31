@@ -32,3 +32,4 @@
 - Accuracy is measured on only 50 videos, so the margin of error is large (roughly ±5–6%). The published result on the full Kinetics-400 val set is 77.0% top-1 / 92.6% top-5.
 - Mean latency is higher than median because the run is bottlenecked by CPU video decoding in the data loader, not by the GPU.
 - Numbers are taken from `stdout.log` of the run on Oct 30, 2026.
+- Detailed per-video predictions and error analysis data extracted from the raw `stdout.log` are formatted and available in `slowfast_dryrun_preds.csv`.
